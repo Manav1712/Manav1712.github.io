@@ -13,7 +13,7 @@
       "region": "California"
     }
   },
-  "Experience": [
+  "experience": [
     {
       "name": "Princeton Research Computing, Princeton University",
       "location": "Princeton, NJ",
@@ -45,7 +45,7 @@
     }
   ],
  
-  "Volunteering": [
+  "volunteering": [
     {
       "institution": "McAuley Lab, UC San Diego",
       "location": "San Diego, CA",
