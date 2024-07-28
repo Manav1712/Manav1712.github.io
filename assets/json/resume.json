@@ -26,7 +26,18 @@
     },
 
     {
-      "organization": "Intellect Design Arena ",
+      "name": "NanoMood Technologies LLC",
+      "location": "San Diego, CA",
+      "position": "Data Science Intern",
+      "url": "https://researchcomputing.princeton.edu/",
+      "startDate": "04/24",
+      "endDate": "-",
+      "summary": "",
+      "highlights": ["Relativity"]
+    },
+
+    {
+      "name": "Intellect Design Arena ",
       "location": "Chennai, India",
       "position": "Data Science Intern",
       "url": "https://www.intellectdesign.com/",
@@ -35,7 +46,7 @@
       "summary": "Automated data annotation for financial documents using dynamic few shot learning "
     },
     {
-      "organization": "Chapter Apps Inc. ",
+      "name": "Chapter Apps Inc. ",
       "location": "Gurugram, India",
       "position": "Software Engineering Intern",
       "url": "https://www.chaptervitamins.com/",
