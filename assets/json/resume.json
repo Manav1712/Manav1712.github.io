@@ -15,40 +15,38 @@
   },
   "work": [
     {
-      "name": "Princeton Research Computing, Princeton University",
+      "name": "Research Software Engineering Intern",
       "location": "Princeton, NJ",
-      "position": "Research Software Engineering Intern",
+      "position": "Princeton Research Computing",
       "url": "https://researchcomputing.princeton.edu/",
       "startDate": "06/24",
       "endDate": "08/24",
-      "summary": "Contributing to the LROPT project at Operations Research and Financial Engineering",
-      "highlights": ["Relativity"]
+      "summary": "Contributing to the LROPT project at Operations Research and Financial Engineering"
     },
 
     {
-      "name": "NanoMood Technologies LLC",
+      "name": "Data Science Intern",
       "location": "San Diego, CA",
-      "position": "Data Science Intern",
-      "url": "https://researchcomputing.princeton.edu/",
+      "position": "NanoMood Technologies LLC.",
+      "url": "https://nanomoodtech.com/",
       "startDate": "04/24",
       "endDate": "-",
-      "summary": "",
-      "highlights": ["Relativity"]
+      "summary": ""
     },
 
     {
-      "name": "Intellect Design Arena ",
+      "name": "Data Science Intern",
       "location": "Chennai, India",
-      "position": "Data Science Intern",
+      "position": "Intellect Design Arena",
       "url": "https://www.intellectdesign.com/",
       "startDate": "07/23",
       "endDate": "09/23",
       "summary": "Automated data annotation for financial documents using dynamic few shot learning "
     },
     {
-      "name": "Chapter Apps Inc. ",
+      "name": "Software Engineering Intern",
       "location": "Gurugram, India",
-      "position": "Software Engineering Intern",
+      "position": "Chapter Apps Inc.",
       "url": "https://www.chaptervitamins.com/",
       "startDate": "06/22",
       "endDate": "08/22",
@@ -58,19 +56,19 @@
  
   "volunteer": [
     {
-      "institution": "McAuley Lab, UC San Diego",
+      "name": "Research Assistant",
       "location": "San Diego, CA",
       "url": "https://cseweb.ucsd.edu/~jmcauley/",
-      "area": "Research Assistant",
+      "position": "McAuley Lab, UC San Diego",
       "startDate": "10/22",
       "endDate": "01/23",
-      "summary": "Worked on a paper on Debiasing with Natural Language Feedback for Fair Interpretable Predictions"
+      "summary": "Aided PhD students on a paper on Debiasing with Natural Language Feedback for Fair Interpretable Predictions"
     },     
     {
-      "institution": "Sustainable Investment Group, UC San Diego",
+      "name": "Student Quantitative Researcher",
       "location": "San Diego, CA",
       "url": "https://linktr.ee/ucsdsig",
-      "area": "Student Quantitative Researcher",
+      "position": "Sustainable Investment Group, UC San Diego",
       "startDate": "4/23",
       "endDate": "10/23",
       "summary": "Conducted quantitative research, implementing LSTM methodologies for precise time series modeling"
