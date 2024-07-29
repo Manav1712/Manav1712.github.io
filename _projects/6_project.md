@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Video Summarization
-description: 
+description: ''
 img: assets/img/camera.jpg
 importance: 1
 category: work
 ---
 
 
-This project implements a video summarization model using ResNeXt for feature extraction and an LSTM network for predicting frame importance scores to generate concise video summaries. For more info, check it out [here.] (https://github.com/Manav1712/video_summarization)
+This project implements a video summarization model using ResNeXt for feature extraction and an LSTM network for predicting frame importance scores to generate concise video summaries. For more info, check it out [here](https://github.com/Manav1712/video_summarization).
