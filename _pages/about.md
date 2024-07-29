@@ -10,7 +10,7 @@ profile:
     <p>9500 Gilman Dr</p>
     <p>La Jolla, CA 92092</p>
 
-news: true # includes a list of news items
+news: false # includes a list of news items
 social: true # includes social icons at the bottom of the page
 ---
 
@@ -18,4 +18,4 @@ Hi! My name is Manav Jairam. I am a senior at the University of California, San 
 
 I have a broad interest in Natural Language Processing, Operations Research and its applications in finance, and Recommender Systems. Specifically, I have experience in conducting research, working as a Data Scientist, managing various aspects of the Data Science project pipeline, and developing front-end applications.
 
-I also love playing pool, running and going to concerts! Add me on Spotify @manavjairam 
+I also love playing pool, running and going to concerts! Add me on Spotify to share interesting playlists.
