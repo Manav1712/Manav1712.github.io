@@ -19,8 +19,8 @@
       "location": "Princeton, NJ",
       "position": "Princeton Research Computing",
       "url": "https://researchcomputing.princeton.edu/",
-      "startDate": "06/2024",
-      "endDate": "08/2024",
+      "startDate": "2024.06",
+      "endDate": "2024.08",
       "summary": "Contributing to the LROPT project at Operations Research and Financial Engineering"
     },
 
@@ -29,7 +29,7 @@
       "location": "San Diego, CA",
       "position": "NanoMood Technologies LLC.",
       "url": "https://nanomoodtech.com/",
-      "startDate": "04/2024",
+      "startDate": "2024.04",
       "endDate": "-",
       "summary": ""
     },
@@ -39,8 +39,8 @@
       "location": "Chennai, India",
       "position": "Intellect Design Arena",
       "url": "https://www.intellectdesign.com/",
-      "startDate": "07/2023",
-      "endDate": "09/2023",
+      "startDate": "2023.07",
+      "endDate": "2023.09",
       "summary": "Automated data annotation for financial documents using dynamic few shot learning "
     },
     {
@@ -48,8 +48,8 @@
       "location": "Gurugram, India",
       "position": "Chapter Apps Inc.",
       "url": "https://www.chaptervitamins.com/",
-      "startDate": "06/2022",
-      "endDate": "08/2022",
+      "startDate": "2022.06",
+      "endDate": "2022.08",
       "summary": "Planned, designed and deployed 4 dynamic websites for online education and eCommerce. "
     }
   ],
@@ -60,8 +60,8 @@
       "location": "San Diego, CA",
       "url": "https://cseweb.ucsd.edu/~jmcauley/",
       "position": "McAuley Lab, UC San Diego",
-      "startDate": "10/22",
-      "endDate": "01/23",
+      "startDate": "2022.10",
+      "endDate": "2023.01",
       "summary": "Aided PhD students on a paper on Debiasing with Natural Language Feedback for Fair Interpretable Predictions"
     },     
     {
@@ -69,8 +69,8 @@
       "location": "San Diego, CA",
       "url": "https://linktr.ee/ucsdsig",
       "position": "Sustainable Investment Group, UC San Diego",
-      "startDate": "4/23",
-      "endDate": "10/23",
+      "startDate": "2023.01",
+      "endDate": "2023.04",
       "summary": "Conducted quantitative research, implementing LSTM methodologies for precise time series modeling"
     }
   ],
