@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: Stuff I did in school and in my free time
+description: Projects that I completed in school and in my free time. I also included the package I worked on while I was at Princeton. 
 nav: true
 nav_order: 3
 display_categories: [work]
